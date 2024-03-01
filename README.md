@@ -1,5 +1,6 @@
 # Project-SpyOps
-This is a project that I created for my final year project of my uuniversity degree.
+This is a project that I created for the final year project of my university degree. A prototype 3rd person shooter with asymmetric multiplayer, 
+think <a href="https://store.steampowered.com/app/1659040/HITMAN_3/">Hitman</a> meets <a href="https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/">Keep Talking and Nobody Explodes</a>.
 
 <h1>Early Prototype Gameplay Footage</h1>
 
